@@ -1,0 +1,5 @@
+Hello , 
+To make new folder use comand (mkdir)
+to make new file use cmand :- vi name.file_type
+to edit the new made press insert and edit the new file
+to save and exit press esc+shit+:wq
